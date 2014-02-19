@@ -1,3 +1,6 @@
+var hashTree = require('./hash-tree');
+var crypto = require('crypto');
+
 (function loop() {
   var start = Date.now();
   hashTree(__dirname + '/../')

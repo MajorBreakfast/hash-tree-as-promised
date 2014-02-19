@@ -1,11 +1,11 @@
 {
   "name": "hash-tree-as-promised",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Josef Brandl",
   "description": "",
   "main": "hash-tree.js",
   "license": "MIT",
   "dependencies": {
-    "walk-tree-as-promised": "0.0.5"
+    "walk-tree-as-promised": "~0.0.7"
   }
 }
