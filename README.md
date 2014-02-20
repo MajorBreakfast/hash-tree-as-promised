@@ -2,7 +2,7 @@
 
 # Usage
 ``` JavaScript
-var walk = require('hash-tree-as-promised');
+var hashTree = require('hash-tree-as-promised');
 
 hashTree(__dirname)
 .then(function(hash) {
